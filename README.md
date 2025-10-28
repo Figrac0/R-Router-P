@@ -22,19 +22,18 @@ The structure combines two main layers:
 <h3 align="center">📸 Screenshots</h3>
 
 <p align="center">
-  <img src="./src/assets/1.png" alt="Preview 1" width="450"/><br/>
+  <img src="https://raw.githubusercontent.com/Figrac0/R-Router-P/AdvRouter/frontend/src/assets/1.png" alt="Preview 1" width="450"/><br/>
 </p>
 <p align="center">
-  <img src="./src/assets/2.png" alt="Preview 2" height="550" width="450"/><br/>
+  <img src="https://raw.githubusercontent.com/Figrac0/R-Router-P/AdvRouter/frontend/src/assets/2.png" alt="Preview 2" height="550" width="450"/><br/>
 </p>
 <p align="center">
-  <img src="./src/assets/3.png" alt="Preview 3" height="550" width="450"/><br/>
+  <img src="https://raw.githubusercontent.com/Figrac0/R-Router-P/AdvRouter/frontend/src/assets/3.png" alt="Preview 3" height="550" width="450"/><br/>
 </p>
 <p align="center">
-  <img src="./src/assets/4.png" alt="Preview 4" height="550" width="450"/><br/>
+  <img src="https://raw.githubusercontent.com/Figrac0/R-Router-P/AdvRouter/frontend/src/assets/4.png" alt="Preview 4" height="550" width="450"/><br/>
 </p>
 
----
 
 ## 🧭 Key Features
 
