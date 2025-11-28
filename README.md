@@ -173,4 +173,4 @@ This project is released under the **MIT License** and is open for educational a
 
 ---
 
-<h3 align="center">Made with ❤️ by <a href="https://github.com/Figrac0">Figrac0</a></h3>
+<h3 align="center">Made with ❤️ by <a href="https://github.com/Figrac0">Figrac0</a></h3> 
