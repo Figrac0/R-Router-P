@@ -11,7 +11,7 @@ This project showcases the complete potential of React Router DOM by building a 
 It includes dynamic and nested routing, deferred data loading with Suspense, and real backend communication for data persistence.
 
 The structure combines two main layers:
-- **Frontend** built with React and React Router DOM  
+- **Frontend** built with React and React Router DOM   
 - **Backend** powered by Node.js and Express with a file-based data layer
 
 
